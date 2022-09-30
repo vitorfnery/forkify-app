@@ -21,6 +21,10 @@ Forkify is a recipe web app using the Forkify API to allow users to search, view
 - Parcel
 - Git e Github
 
+## Architectural pattern / Padrão de Arquitetura
+
+- MVC (Model View Controller)
+
 ## 📣 Contact / Contato
 
 vitorfelipenery@gmail.com
